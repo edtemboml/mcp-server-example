@@ -1,6 +1,6 @@
 # Installation
 
-Replace or merge the following MCP server configuration into your MCP config file (for example `mcp-server.config.json` or `config.json`). Top-level key is `mcpServers`. This will start the server on your local machine.
+Replace or merge the following MCP server configuration into your MCP config file . Top-level key is `mcpServers` (Exclude top level if other servers are already in file). This will start the server on your local machine.
 
 ```json
 {
