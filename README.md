@@ -5,7 +5,7 @@ Replace or merge the following MCP server configuration into your MCP config fil
 ```json
 {
     "mcpServers": {
-        "Demo-Github": {
+        "add-xy": {
             "disabled": false,
             "timeout": 60,
             "command": "uvx",
